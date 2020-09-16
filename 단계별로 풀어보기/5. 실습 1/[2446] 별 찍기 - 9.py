@@ -7,4 +7,3 @@ for i in range(1, 2*num, 1):
         print("{}{}".format(" "*(i-1), "*"*(2*num-2*i+1)))
     else:
         print("{}{}".format(" "*(2*num-1-i), "*"*(2*(i - num) + 1)))
-

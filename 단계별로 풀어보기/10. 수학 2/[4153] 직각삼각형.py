@@ -1,5 +1,6 @@
 import sys
 
+
 while True:
     a, b, c = map(int, sys.stdin.readline().rstrip('\n').split())
     if a == 0 and b == 0 and c == 0:
@@ -11,6 +12,3 @@ while True:
         print("right")
     else:
         print("wrong")
-
-
-

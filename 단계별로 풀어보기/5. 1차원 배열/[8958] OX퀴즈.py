@@ -1,7 +1,7 @@
 import sys
 
 
-num = int(input())
+num = int(sys.stdin.readline())
 lines = []
 
 for i in range(num):

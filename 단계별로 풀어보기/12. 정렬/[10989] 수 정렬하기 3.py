@@ -19,7 +19,6 @@ for i in range(10001):
         else:
             print(i)
 
-
 """
 문자열 출력 풀이
 """
